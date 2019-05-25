@@ -20,6 +20,7 @@ public class TGen
 	{
 		try
 		{
+			// 调用 mybatis generator 生成文件
 			GeneratorUtil.generatro();
 		} catch (Exception e)
 		{
