@@ -19,7 +19,7 @@ import org.mybatis.generator.internal.DefaultShellCallback;
  *              <li>MyBatis generator工具类
  * @class_name GeneratorUtil
  * @package com.huazai.b2c.util
- * @created 2019年5月25日 下午8:52:54
+ * @created 2017年5月25日 下午8:52:54
  * @contact who.seek.me@java98k.vip
  *
  * @version V1.0.0
