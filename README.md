@@ -1,12 +1,12 @@
 # mybatis-generator
-基于MyBatis的Generator
+基于MyBatis的Generator，让我们的注意力可以更好的转移到实际的业务逻辑上，更好的提高开发效率。
 
 
 ## 本项目依赖的Jar包：
 [MyBatis Generator 依赖的jar包（全）](https://download.csdn.net/download/hello_world_qwp/11242212)
 
 
-## 本项目生成的代码示例
+## 通过本项目生成的代码示例
 
 - **com.huazai.b2c.aiyou**
  - mapper
